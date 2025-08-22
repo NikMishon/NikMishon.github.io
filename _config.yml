@@ -1,3 +1,7 @@
+# Основные настройки
+title: "Заметки"
+author: "Николай Мишонин"
+
 # Настройки Jekyll
 markdown: kramdown
 highlighter: rouge

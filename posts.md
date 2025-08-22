@@ -6,8 +6,6 @@ permalink: /posts/
 
 # Все посты
 
-Здесь собраны все материалы по адресным системам:
-
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
 

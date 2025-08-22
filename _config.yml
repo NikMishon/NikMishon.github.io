@@ -1,9 +1,3 @@
-title: Адреса
-description: Документация по адресным системам
-baseurl: ""
-url: "https://nikmishon.github.io"
-author: "Автор"
-
 # Настройки Jekyll
 markdown: kramdown
 highlighter: rouge
@@ -17,9 +11,6 @@ plugins:
 # Настройки GitHub Pages
 github:
   is_project_page: false
-
-# Настройки темы
-theme: minima
 
 # Настройки постов
 posts:
@@ -40,23 +31,3 @@ pages:
   comments: false
   share: false
   read_time: false
-
-# Навигация
-navigation:
-  - title: Главная
-    url: /
-  - title: Посты
-    url: /posts/
-  - title: О проекте
-    url: /about/
-
-# Социальные сети
-social:
-  name: GitHub
-  url: https://github.com/NikMishon
-  email: email@example.com
-
-# Аналитика
-analytics:
-  provider: google
-  id: UA-XXXXXXXXX-X

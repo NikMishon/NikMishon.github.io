@@ -1,6 +1,8 @@
 # Основные настройки
 title: "Заметки"
-author: "Николай Мишонин"
+description: "Коллекция интересных находок"
+baseurl: ""
+url: "https://nikmishon.github.io"
 
 # Настройки Jekyll
 markdown: kramdown

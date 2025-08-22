@@ -9,8 +9,7 @@ permalink: /posts/
 {% for post in site.posts %}
 ## [{{ post.title }}]({{ post.url }})
 
-**Дата:** {{ post.date | date: "%d.%m.%Y" }}  
-**Автор:** {{ post.author }}
+**Дата:** {{ post.date | date: "%d.%m.%Y" }}
 
 {% if post.categories %}
 **Категории:** {{ post.categories | join: ", " }}

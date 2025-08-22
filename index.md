@@ -22,4 +22,4 @@ permalink: /
 
 - [Все посты](/posts/)
 - [О проекте](/about/)
-- [GitHub репозиторий](https://github.com/NikMishon/repository)
+- [GitHub репозиторий](https://github.com/NikMishon/NikMishon.github.io)

@@ -10,9 +10,9 @@ permalink: /
 
 ## Последние посты
 
-{% raw %}{% for post in site.posts limit:5 %}
+{% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%d.%m.%Y" }}
-{% endfor %}{% endraw %}
+{% endfor %}
 
 ## О проекте
 
